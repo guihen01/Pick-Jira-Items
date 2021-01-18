@@ -2,8 +2,8 @@
 
 1.  jira routines based on REST API
 2. Returns a list of JIRA, users, groups, name, emailadress matching a specific string
-            //Kind of regex matching and grep search  JIRA users & groups 
-Based on REST API JIRA
+3.   //Kind of regex matching and grep search  JIRA users & groups 
+4. Based on REST API JIRA
  
 3. is used with C# code 
 
@@ -17,9 +17,8 @@ Package distributed as a nuget package at :
 
 # How to use
 
-in your C# project , use the routine ...........  using JiraLib;
-
-using JiraLib;
+1. in your C# project , use the routine PickItems()
+2. include the instruction in your C# code : using JiraLib;
 
 ![alt text](https://github.com/guihen01/RestApi-JIRA-Lib/blob/main/Get%20Users%20From%20Group/Screenshots/Capture%20How%20to%20use.PNG "Logo Title Text 1")
 
