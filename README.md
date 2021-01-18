@@ -22,9 +22,12 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG "Logo Title Text 1")
 
-See How to use it , in : https://github.com/guihen01/RestApi-JIRA-Lib/tree/main/Get-All-Jira-Groups
+See How to use it , in : https://github.com/guihen01/Pick-Jira-Items/tree/main/How%20TO
 
 routines are async . so use await instruction for some routines 
+
+routine will be included in a library soon .see   ...............
+
 
 # Download
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
