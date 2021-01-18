@@ -7,19 +7,17 @@ Based on REST API JIRA
  
 3. is used with C# code 
 
- 
+ https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Solution%20view.PNG
 
-![alt text](https://github.com/guihen01/RestApi-JIRA-Lib/blob/main/Library%20view%20v1.2.0.PNG "Logo Title Text 1")
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Solution%20view.PNG "Logo Title Text 1")
 
 # Publication
 
-Package distributed as a nuget package at : https://www.nuget.org/packages/RestAPI-JIRA-Lib/
-
-Is distributed as a .DLL library file
+Package distributed as a nuget package at :  
 
 # How to use
 
-in your C# project , do a reference in your project to this DLL   using JiraLib;
+in your C# project , use the routine ...........  using JiraLib;
 
 using JiraLib;
 
