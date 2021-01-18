@@ -33,7 +33,7 @@ routines are async . so use await instruction for some routines
 
 1. json formated file : List-items.json  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.json )
 
-2. text formated file : List-items.txt
+2. text formated file : List-items.txt  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.txt)
 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Snapshot-2.PNG  "Logo Title Text 1")
 
