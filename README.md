@@ -24,19 +24,9 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 
 See How to use it , in : https://github.com/guihen01/RestApi-JIRA-Lib/tree/main/Get-All-Jira-Groups
 
-Also in : https://github.com/guihen01/RestApi-JIRA-Lib/blob/main/Get%20Users%20From%20Group/Screenshots/Capture%20How%20to%20use.PNG
-
 routines are async . so use await instruction for some routines 
 
 # Download
-1. Download the nuget package at : https://www.nuget.org/packages/RestAPI-JIRA-Lib/
+1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
 
-OR
 
-2. Download the .DLL and others items at https://github.com/guihen01/RestApi-JIRA-Lib/releases/
- 
-# Routines inside the Library : 
-1. GetAllGroups
-2. GetUSersFromGroup
-3. Post1
-4. ConverJsontoString
