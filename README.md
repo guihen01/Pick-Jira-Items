@@ -43,7 +43,7 @@ routine will be included in a .DLL library soon .see Jiralib.dll in https://gith
 
 # Verify
 
-1. results can be veryfied with the Postman tool
+1. results can be veryfied with the Postman tool (https://www.postman.com/) 
 2. and of course with Jira itself ( need to be jira administrator and to go to jira administration panel). 
 
 https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Verify%20with%20Postman.pdf
