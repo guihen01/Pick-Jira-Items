@@ -32,7 +32,10 @@ routines are async . so use await instruction for some routines
 # Results 
 
 See : 
-![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Snapshot-1.PNG "Logo Title Text 1")
+
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20postman.PNG "Logo Title Text 1")
+
+
 
 # Verify
 
