@@ -13,12 +13,12 @@
 
 # Publication
 
-Package distributed as a nuget package at :  
+Package distributed as a nuget package at :  https://www.nuget.org/packages/PickJiraItems/
 
 # How to use
 
 1. in your C# project , use the routine PickItems()
-2. include the instruction in your C# code : using JiraLib;
+2. 
 
 ![alt text](https://github.com/guihen01/RestApi-JIRA-Lib/blob/main/Get%20Users%20From%20Group/Screenshots/Capture%20How%20to%20use.PNG "Logo Title Text 1")
 
