@@ -26,7 +26,7 @@ See How to use it , in : https://github.com/guihen01/Pick-Jira-Items/tree/main/H
 
 routines are async . so use await instruction for some routines 
 
-routine will be included in a library soon .see   ...............
+routine will be included in a .DLL library soon .see Jiralib.dll in https://github.com/guihen01/RestApi-JIRA-Lib  
 
 
 # Download
@@ -43,7 +43,8 @@ routine will be included in a library soon .see   ...............
 
 # Verify
 
-results can be veryfied with the Postman tool
+1. results can be veryfied with the Postman tool
+2. and of course with Jira itself ( need to be jira administrator and to go to jira administration panel). 
 
 https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Verify%20with%20Postman.pdf
 
