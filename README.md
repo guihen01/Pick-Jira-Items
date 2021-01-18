@@ -35,7 +35,7 @@ routines are async . so use await instruction for some routines
 
 2. text formated file : List-items.txt
 
-![alt text](  "Logo Title Text 1")
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Snapshot-2.PNG  "Logo Title Text 1")
 
 
 # Verify
