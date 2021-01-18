@@ -29,4 +29,7 @@ routines are async . so use await instruction for some routines
 # Download
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
 
+# Results 
 
+See : 
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Solution%20view.PNG "Logo Title Text 1")
