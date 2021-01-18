@@ -33,3 +33,10 @@ routines are async . so use await instruction for some routines
 
 See : 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Snapshot-1.PNG "Logo Title Text 1")
+
+# Verify
+
+results can be veryfied with the Postman tool
+
+https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Verify%20with%20Postman.pdf
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Verify%20with%20Postman.pdf "Logo Title Text 1")
