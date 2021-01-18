@@ -18,9 +18,9 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 # How to use
 
 1. in your C# project , use the routine PickItems()
-2. 
+2. https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG
 
-![alt text](https://github.com/guihen01/RestApi-JIRA-Lib/blob/main/Get%20Users%20From%20Group/Screenshots/Capture%20How%20to%20use.PNG "Logo Title Text 1")
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG "Logo Title Text 1")
 
 See How to use it , in : https://github.com/guihen01/RestApi-JIRA-Lib/tree/main/Get-All-Jira-Groups
 
