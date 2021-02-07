@@ -1,4 +1,5 @@
 # Pick-Jira-Items
+[![PickJiraItems on fuget.org](https://www.fuget.org/packages/PickJiraItems/badge.svg)](https://www.fuget.org/packages/PickJiraItems)
 
 1.  jira routines based on REST API
 2. Returns a list of JIRA, users, groups, name, emailadress matching a specific string
