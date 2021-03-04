@@ -19,6 +19,11 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 # Dependency 
 
 
+. Packages referenced in the Library 
+
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Dependency%20.GIF "Logo Title Text 1")
+
+
 # How to use
 
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
