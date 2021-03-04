@@ -19,8 +19,10 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 # How to use
 
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
-2. in your C# project , use the routine PickItems()
-3. https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG
+2. using JiraLib; in your project, reference this package (package name : RestAPI-JIRA-Lib)
+3. in your C# project , use the routine PickItems()
+4. using System.Threading.Tasks; Routines are async methods and need the use of await and async Task declaration instruction
+5. 
 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG "Logo Title Text 1")
 
