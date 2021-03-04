@@ -1,8 +1,8 @@
-# Pick-Jira-Items
+# PickJiraItems
 [![PickJiraItems on fuget.org](https://www.fuget.org/packages/PickJiraItems/badge.svg)](https://www.fuget.org/packages/PickJiraItems)
 
 1.  jira routines based on REST API
-2. Returns a list of JIRA, users, groups, name, emailadress matching a specific string
+2.   Returns a list of JIRA, users, groups, name, emailadress matching a specific string
 3.   //Kind of regex matching and grep search  JIRA users & groups 
 4. Based on REST API JIRA
  
@@ -22,7 +22,7 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 # How to use
 
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
-2. using JiraLib; in your project, reference this package (package name : RestAPI-JIRA-Lib)
+2. using PickJiraItem in your project, reference this package; in your project, (package name : PickJiraItem)
 3. using Newtonsoft.Json; in your project, reference this package
 4. in your C# project , use the routine PickItems()
 5. using System.Threading.Tasks; Routines are async methods and need the use of await and async Task declaration instruction
