@@ -44,6 +44,9 @@ routine will be included in a .DLL library soon. So all that will be needed is t
 see Jiralib.dll in https://github.com/guihen01/RestApi-JIRA-Lib  
 
 
+https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF "Logo Title Text 1")
+
 # Download
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
 
