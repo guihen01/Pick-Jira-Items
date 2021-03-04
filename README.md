@@ -22,7 +22,7 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 # How to use
 
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
-2. using PickJiraItem in your project, reference this package; in your project, (package name : PickJiraItem)
+2. using PickJiraItems in your project, reference this package; in your project, (package name : PickJiraItems)
 3. using Newtonsoft.Json; in your project, reference this package
 4. in your C# project , use the routine PickItems()
 5. using System.Threading.Tasks; Routines are async methods and need the use of await and async Task declaration instruction
