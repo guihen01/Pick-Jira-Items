@@ -18,8 +18,9 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 
 # How to use
 
-1. in your C# project , use the routine PickItems()
-2. https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG
+1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
+2. in your C# project , use the routine PickItems()
+3. https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG
 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG "Logo Title Text 1")
 
