@@ -57,13 +57,15 @@ https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF
   * username for authentication 
   * password for authentication
 
+* after that it displays results on the console and also write results to 2 files : List-items.json and List-items.txt
+
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/HowitRuns.GIF "Logo Title Text 1")
 
 
 
 # Results 
 
-Here is an example :
+Here is an example : 
  
 1. json formated file : List-items.json  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.json )
 
