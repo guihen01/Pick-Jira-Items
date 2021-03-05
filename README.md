@@ -74,7 +74,7 @@ Here is an example :
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Snapshot-2.PNG  "Logo Title Text 1")
 
 
-# Verify
+# Verify with Postman
 
 1. results can be veryfied with the Postman tool (https://www.postman.com/) 
 2. and of course with Jira itself ( need to be jira administrator and to go to jira administration panel). 
