@@ -1,5 +1,6 @@
 # PickJiraItems
 
+[![NuGet](https://img.shields.io/nuget/v/PickJiraItems.svg)](https://www.nuget.org/packages/PickJiraItems/) 
 [![PickJiraItems on fuget.org](https://www.fuget.org/packages/PickJiraItems/badge.svg)](https://www.fuget.org/packages/PickJiraItems)
 
 1.  jira routines based on REST API
