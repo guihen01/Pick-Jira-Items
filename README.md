@@ -28,7 +28,8 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 5. using System.Threading.Tasks; Routines are async methods and need the use of await and async Task declaration instruction
 6. 
 
-![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Capture%20HowtoUSe.PNG "Logo Title Text 1")
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/HowTo1.GIF "Logo Title Text 1")
+
 
 See How to use it , in : https://github.com/guihen01/Pick-Jira-Items/tree/main/How%20TO
 
