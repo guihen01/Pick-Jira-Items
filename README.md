@@ -50,9 +50,21 @@ https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF
 
 # How it runs
 
+* the method ask somes questions, displayed in a console .  
+* questions asked are : 
+  * URL of the Jira server
+  * string to search int the Jira database
+  * username for authentication 
+  * password for authentication
+
+![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/HowitRuns.GIF "Logo Title Text 1")
+
+
 
 # Results 
 
+Here is an example :
+ 
 1. json formated file : List-items.json  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.json )
 
 2. text formated file : List-items.txt  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.txt)
