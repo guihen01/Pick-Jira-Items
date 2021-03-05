@@ -1,16 +1,11 @@
 # PickJiraItems
+
 [![PickJiraItems on fuget.org](https://www.fuget.org/packages/PickJiraItems/badge.svg)](https://www.fuget.org/packages/PickJiraItems)
 
 1.  jira routines based on REST API
-2.   Returns a list of JIRA, users, groups, name, emailadress matching a specific string
+2.  Returns a list of JIRA, users, groups, name, emailadress matching a specific string
 3.   //Kind of regex matching and grep search  JIRA users & groups 
-4. Based on REST API JIRA
- 
-3. is used with C# code 
-
- https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Solution%20view.PNG
-
-![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Solution%20view.PNG "Logo Title Text 1")
+4. is used with C# code 
 
 # Publication
 
@@ -18,8 +13,7 @@ Package distributed as a nuget package at :  https://www.nuget.org/packages/Pick
 
 # Dependency 
 
-
-. Packages referenced in the Library 
+. Packages referenced in the Library :
 
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Dependency%20.GIF "Logo Title Text 1")
 
