@@ -41,8 +41,8 @@ routines are async . so use await instruction for some routines
 
 routine will be included in a .DLL library soon. So all that will be needed is to include the library in your code ( in visual studio code, make a reference to this library in your project, and for this,  use nuget package manager to include the library nuget package) 
 
-* use : await Programm.PickItems();
-  * method PickItems() is packed and assembled in the dll : and included in the Programm class
+* use : await Program.PickItems();
+  * method PickItems() is packed and assembled in the dll : and included in the Program class
 
 https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF
 ![alt text](https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF "Logo Title Text 1")
