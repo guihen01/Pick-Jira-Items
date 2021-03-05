@@ -47,6 +47,9 @@ https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/Object%20view.GIF
 # Download
 1. Download the nuget package at : https://www.nuget.org/packages/PickJiraItems/
 
+# How it runs
+
+
 # Results 
 
 1. json formated file : List-items.json  (https://github.com/guihen01/Pick-Jira-Items/blob/main/How%20TO/List-items.json )
