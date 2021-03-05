@@ -6,7 +6,7 @@
 1.  jira routines based on REST API
 2.  Returns a list of JIRA, users, groups, name, emailadress matching a specific string
 3.   //Kind of regex matching and grep search  JIRA users & groups 
-4. is used with C# code 
+4. is used with C# code and method(s) are packaged in a DLL .library : PickJiraItems.dll 
 
 # Publication
 
@@ -34,7 +34,7 @@ See How to use it , in : https://github.com/guihen01/Pick-Jira-Items/tree/main/H
 
 routines are async . so use await instruction for some routines 
 
-routine will be included in a .DLL library soon. So all that will be needed is to include the library in your code ( in visual studio code, make a reference to this library in your project, and for this,  use nuget package manager to include the library nuget package) 
+routine(s) are included in a .DLL library (PickJiraItems.dll) . So all that will be needed is to include the library in your code ( in visual studio code, make a reference to this library in your project, and for this,  use nuget package manager to include the library nuget package) 
 
 * use : await Program.PickItems();
   * method PickItems() is packed and assembled in the dll : and included in the Program class
